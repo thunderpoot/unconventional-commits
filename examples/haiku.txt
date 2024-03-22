@@ -1,0 +1,3 @@
+Tabs for indenting
+Spaces for aligning things
+No file left unchecked
